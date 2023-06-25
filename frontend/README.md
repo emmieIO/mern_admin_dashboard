@@ -3,21 +3,21 @@
 
 ## Package Requirements;
 ### State management
-    * react-redux 
-    * @reduxjs/toolkit 
+    npm i react-redux 
+    npm i @reduxjs/toolkit 
 ### Date
-    * react-datepicker
+    npm i react-datepicker
 ### Routing
-    * react-router-dom
+    npm i react-router-dom
 ### Material/Emotion ui Components & icons
-    * @mui/material 
-    * @emotion/react 
-    * @emotion/styled 
-    * @mui/icons-material 
+    npm i @mui/material 
+    npm i @emotion/react 
+    npm i @emotion/styled 
+    npm i @mui/icons-material 
 ### Tables
-    * @mui/x-data-grid
+    npm i @mui/x-data-grid
 ### Graphs
-    * @nivo/core 
-    * @nivo/bar 
-    * @nivo/geo 
-    * @nivo/pie
+    npm i @nivo/core 
+    npm i @nivo/bar 
+    npm i @nivo/geo 
+    npm i @nivo/pie
