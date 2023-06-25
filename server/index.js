@@ -37,9 +37,9 @@ mongoose.connect(process.env.MONGO_URI,{
     useNewUrlParser:true,
     useUnifiedTopology:true
 }).then(()=>{
-    
     app.listen(PORT,()=>{
-        console.log('Server up and running...')
+        console.log('Server up and running...');
+        console.log('MongDB connection estalished...');
     });
 }).catch((err)=>{
     console.log( "database connection failed::"+err)
